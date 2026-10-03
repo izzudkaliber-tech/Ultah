@@ -70,7 +70,7 @@ const CONFIG = {
     {
       type: "chatbox",
       message:
-        "Happy birthday to youu!! Wishing you a wonderful year ahead filled with joy, love, and endless happiness!",
+        "Happy birthday, friend! This marks another year added to your age, and you are growing more mature.",
       buttonText: "Send",
     },
     {
